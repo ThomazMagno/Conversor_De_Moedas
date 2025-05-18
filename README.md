@@ -1,46 +1,56 @@
-# Conversor de Moedas 💱
+<h1>Conversor de Moedas 💱</h1>
 
-Este é um projeto simples em Java que simula um conversor de moedas. O usuário pode converter valores entre diferentes moedas com base em taxas reais.
+<p>Este é um projeto simples em Java que simula um conversor de moedas. O usuário pode converter valores entre diferentes moedas com base em taxas reais.</p>
 
-## 📋 Funcionalidades
+<h2>📋 Funcionalidades</h2>
+<ul>
+  <li>Menu interativo com opções de conversão</li>
+  <li>Conversão de moedas:
+    <ul>
+      <li>"USD" para "BRL"</li>
+      <li>"BRL" para "USD"</li>
+      <li>"EUR" para "BRL"</li>
+      <li>"BRL" para "EUR"</li>
+      <li>"USD" para "EUR"</li>
+      <li>"EUR" para "USD"</li>
+    </ul>
+  </li>
+  <li>Validação de entrada</li>
+  <li>Estrutura orientada a objetos com múltiplas classes</li>
+</ul>
 
-- Menu interativo com opções de conversão
-- Conversão de moedas:
-  - "USD" para "BRL",
-  - "BRL" para "USD"
-  - "EUR" para "BRL"
-  - "BRL" para "EUR"
-  - "USD" para "EUR"
-  - "EUR" para "USD"
-- Validação de entrada
-- Estrutura orientada a objetos com múltiplas classes
+<h2>🛠️ Tecnologias utilizadas</h2>
+<ul>
+  <li>Java</li>
+  <li>IntelliJ IDEA</li>
+  <li>Git & GitHub</li>
+</ul>
 
-## 🛠️ Tecnologias utilizadas
-
-- Java
-- IntelliJ IDEA
-- Git & GitHub
-
-## 📂 Organização do projeto
-src/<br>
+<h2>📂 Organização do projeto</h2>
+<pre>
+src/
 └── Conversor/
-<br>   ├── Main.java
-<br>   ├── MenuConversao.java
-<br>   └── ConversorDeMoedas.java
+    ├── Main.java
+    ├── MenuConversao.java
+    └── ConversorDeMoedas.java
+</pre>
 
-## 🚀 Como executar
+<h2>🚀 Como executar</h2>
+<ol>
+  <li>Clone o repositório:<br>
+    <a href="https://github.com/ThomazMagno/Conversor_De_Moedas.git">
+      https://github.com/ThomazMagno/Conversor_De_Moedas.git
+    </a>
+  </li>
+  <li>Abra no IntelliJ IDEA (ou outro IDE)</li>
+  <li>Execute o <code>Main.java</code></li>
+</ol>
 
-1. Clone o repositório:
-https://github.com/ThomazMagno/Conversor_De_Moedas.git
+<h2>👨‍💻 Autor</h2>
+<ul>
+  <li><strong>Thomaz Magno Rosendo Raymundo</strong></li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/thomaz-magno-java/" target="_blank">https://www.linkedin.com/in/thomaz-magno-java/</a></li>
+  
+</ul>
 
-2. Abra no IntelliJ IDEA (ou outro IDE)
-3. Execute o `Main.java`
-
-## 👨‍💻 Autor
-
-- **Thomaz Magno Rosendo Raymundo**
-- LinkedIn: https://www.linkedin.com/in/thomaz-magno-java/
-- E-mail: tumtum_thomaz@hotmail.com
-
-  #AluraOne :sparkling_heart:
-
+<p><strong>#AluraOne</strong> ✨</p>
